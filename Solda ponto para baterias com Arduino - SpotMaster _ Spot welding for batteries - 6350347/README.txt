@@ -1,0 +1,1 @@
+Solda ponto para baterias com Arduino - SpotMaster | Spot welding for batteries by MarlonNW on Thingiverse: https://www.thingiverse.com/thing:6350347
