@@ -1,4 +1,4 @@
-Hello! We are studants of Mato Grosso's University in Brazil and we make this GitHub Repositore to help all people that found us to create a spot welding make by yourselves.
+Hello! We are studants of Mato Grosso State University in Brazil and we make this GitHub Repositore to help all people that found us to create a spot welding make by yourselves.
 All of information that exist in this GitHub repositore comes from Marlon Nardi's YouTube Channel. Therefore, thank you8 very much, Marlon Nardi!
 
 Marlon Nardi's YouTube Channel link: https://www.youtube.com/@MarlonNardi
